@@ -4,6 +4,7 @@ A shared subscription is a mechanism for distributing messages to a set of subsc
 
 A shared subscription is on the form $share/sharename/channel and subscribers to this topic will receive messages published to the channel. The messages will be distributed according to the defined distribution policy.
 
+[![shared subscription](https://s3.amazonaws.com/cdn.misakai.com/www-emitter/thumb/emitter-share.png)](https://www.youtube.com/watch?v=Vl7iGKEQrTg)
 
 ![Shared Subscriptions](img.png "Shared Subscriptions")
 
